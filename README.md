@@ -1,4 +1,4 @@
-# keralarescue
+# Kerala Rescue App
 Web Portal for the mobile app of kerala-rescue 
 
 ## Setting up
